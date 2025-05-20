@@ -1,1 +1,1 @@
-# Predicting-Survivors-of-Titanic
+# Survivors-of-Titanic
